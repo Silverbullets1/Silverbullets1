@@ -20,6 +20,9 @@
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Silverbullets1&show_icons=true&theme=radical)
 
+## 🏅 Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Silverbullets1&theme=radical&margin-w=15)
+
 ## 🔭 Currently
 Building autonomous security-engineering agents. Verifiable results, reproducible reports.
 
